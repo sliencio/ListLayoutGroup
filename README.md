@@ -1,2 +1,3 @@
 # ListLayoutGroup
-infinite list view
+simple,power,infinite listview
+![image](./list.png)
